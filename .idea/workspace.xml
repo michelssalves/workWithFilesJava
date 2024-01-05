@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Usando fileReaderBufferedReader">
-      <change afterPath="$PROJECT_DIR$/src/tryWithResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileWriterBufferedWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fileReaderBufferedReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileReaderBufferedReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lendoArquivoTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LendoArquivoTexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tryWithResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryWithResources.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704459123018</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Usando fileReaderBufferedReader">
+      <created>1704459481248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704459481248</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

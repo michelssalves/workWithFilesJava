@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class lendoArquivoTexto {
+public class LendoArquivoTexto {
 
     public static void main(String[] args) {
         File file = new File("C:\\temp\\in.txt");

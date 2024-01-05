@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class fileReaderBufferedReader {
+public class FileReaderBufferedReader {
 
     public static void main(String[] args) {
         String path = "c:\\temp\\ian.txt";
