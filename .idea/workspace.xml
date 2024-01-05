@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Usando fileReaderBufferedReader">
-      <change afterPath="$PROJECT_DIR$/src/FileWriterBufferedWriter.java" afterDir="false" />
+    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Usando FileWriterBufferedWriter">
+      <change afterPath="$PROJECT_DIR$/src/ManipulandoPastas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileReaderBufferedReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileReaderBufferedReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lendoArquivoTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LendoArquivoTexto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tryWithResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryWithResources.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704459481248</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Usando FileWriterBufferedWriter">
+      <created>1704459888445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704459888445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lendo arquivos de texto" />
     <MESSAGE value="Usando fileReaderBufferedReader" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usando fileReaderBufferedReader" />
+    <MESSAGE value="Usando FileWriterBufferedWriter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando FileWriterBufferedWriter" />
   </component>
 </project>
