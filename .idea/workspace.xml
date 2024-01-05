@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Manipulando pastas">
-      <change afterPath="$PROJECT_DIR$/src/CaminhoDoArquivo.java" afterDir="false" />
+    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Conseguir o caminho do arquivo">
+      <change afterPath="$PROJECT_DIR$/src/ExercicioDeArquivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Products.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704460407188</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Conseguir o caminho do arquivo">
+      <created>1704460742428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704460742429</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +131,10 @@
     <MESSAGE value="Usando fileReaderBufferedReader" />
     <MESSAGE value="Usando FileWriterBufferedWriter" />
     <MESSAGE value="Manipulando pastas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Manipulando pastas" />
+    <MESSAGE value="Conseguir o caminho do arquivo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conseguir o caminho do arquivo" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/workingWithFilesJava$ExercicioDeArquivos.ic" NAME="ExercicioDeArquivos Coverage Results" MODIFIED="1704480055162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
