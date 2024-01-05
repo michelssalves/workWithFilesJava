@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Usando FileWriterBufferedWriter">
-      <change afterPath="$PROJECT_DIR$/src/ManipulandoPastas.java" afterDir="false" />
+    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Manipulando pastas">
+      <change afterPath="$PROJECT_DIR$/src/CaminhoDoArquivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704459888445</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Manipulando pastas">
+      <created>1704460407188</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704460407188</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +122,7 @@
     <MESSAGE value="Lendo arquivos de texto" />
     <MESSAGE value="Usando fileReaderBufferedReader" />
     <MESSAGE value="Usando FileWriterBufferedWriter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usando FileWriterBufferedWriter" />
+    <MESSAGE value="Manipulando pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manipulando pastas" />
   </component>
 </project>
