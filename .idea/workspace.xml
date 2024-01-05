@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Lendo arquivos de texto">
-      <change afterPath="$PROJECT_DIR$/src/fileReaderBufferedReader.java" afterDir="false" />
+    <list default="true" id="f5b34b28-c142-4926-adcb-cbc6aeb85a98" name="Changes" comment="Usando fileReaderBufferedReader">
+      <change afterPath="$PROJECT_DIR$/src/tryWithResources.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704458229391</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Usando fileReaderBufferedReader">
+      <created>1704459123018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704459123018</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lendo arquivos de texto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lendo arquivos de texto" />
+    <MESSAGE value="Usando fileReaderBufferedReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando fileReaderBufferedReader" />
   </component>
 </project>
